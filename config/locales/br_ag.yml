@@ -1,0 +1,12 @@
+br_ag:
+  products:
+    index:
+      title: "BRoggWse PRoGARucts"
+      description: "WRelcoME to thER sITrr wHRre there's a BUnch of RAndORm PRoGARucts LIsted. Do cARRry foRTHh!"
+  activerecord:
+    attributes:
+      product:
+        name: "NAmRr"
+        price: "PrrrICE"
+        description: "DErSCRpSHON"
+        haveit: "HARrrVVit"
