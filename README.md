@@ -8,6 +8,7 @@ How to check out what I created:
 <li>Run "rake db:seed"</li>
 <li>Run "rails s"</li>
 <li>See all the cool things I implemented!</li>
+</ul>
 
 Special Features:
 - i18n
