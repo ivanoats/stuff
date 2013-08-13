@@ -5,4 +5,5 @@ Stuff::Application.routes.draw do
   end
   match '*path', to: redirect("/#{I18n.default_locale}/%{path}")
   match '', to: redirect("/#{I18n.default_locale}")
+  match 'auth/twitter/callback', to: 'sessions#create'
 end
