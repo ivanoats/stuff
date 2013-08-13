@@ -16,3 +16,6 @@ Special Features:
 - gem 'globalize3'
 - gem 'seed_dump'
 - seeds.rb
+
+Screenshot:
+![Alt text](/stuff_screenshot.jpg "Screenshot")

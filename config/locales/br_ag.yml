@@ -3,6 +3,8 @@ br_ag:
     index:
       title: "BRoggWse PRoGARucts"
       description: "WRelcoME to thER sITrr wHRre there's a BUnch of RAndORm PRoGARucts LIsted. Do cARRry foRTHh!"
+    new:
+      title: "NeRw PRoGARucts"
   activerecord:
     attributes:
       product:

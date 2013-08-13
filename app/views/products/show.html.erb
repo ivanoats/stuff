@@ -1,22 +1,22 @@
 <p id="notice"><%= notice %></p>
 
 <p>
-  <b>Name:</b>
+  <b><%= Product.human_attribute_name(:name) %></b>
   <%= @product.name %>
 </p>
 
 <p>
-  <b>Price:</b>
+  <b><%= Product.human_attribute_name(:price) %></b>
   <%= @product.price %>
 </p>
 
 <p>
-  <b>Description:</b>
+  <b><%= Product.human_attribute_name(:description) %></b>
   <%= @product.description %>
 </p>
 
 <p>
-  <b>Haveit:</b>
+  <b><%= Product.human_attribute_name(:haveit) %></b>
   <%= @product.haveit %>
 </p>
 

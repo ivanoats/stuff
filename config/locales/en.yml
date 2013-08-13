@@ -6,3 +6,6 @@ en:
     index:
       title: "Browse Products"
       description: "Welcome to the site where there's a bunch of random products listed. Do carry forth!"
+    new:
+      show:
+      title: "New Products"
